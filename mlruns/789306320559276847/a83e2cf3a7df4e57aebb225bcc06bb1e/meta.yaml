@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/harshitkishore/Downloads/Mlflow-main/mlruns/789306320559276847/a83e2cf3a7df4e57aebb225bcc06bb1e/artifacts
+end_time: 1759283973168
+entry_point_name: ''
+experiment_id: '789306320559276847'
+lifecycle_stage: active
+run_id: a83e2cf3a7df4e57aebb225bcc06bb1e
+run_name: enchanting-chimp-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759283967722
+status: 3
+tags: []
+user_id: harshitkishore
