@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/harshitkishore/Downloads/Mlflow-main/mlruns/789306320559276847/21d598be12c047c191d268049a56eb48/artifacts
+end_time: 1759288129605
+entry_point_name: ''
+experiment_id: '789306320559276847'
+lifecycle_stage: active
+run_id: 21d598be12c047c191d268049a56eb48
+run_name: omniscient-vole-492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759288125075
+status: 3
+tags: []
+user_id: harshitkishore
